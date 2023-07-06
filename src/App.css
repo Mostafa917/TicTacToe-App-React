@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(39, 39, 39);
+    box-sizing: border-box;
+}
+
+.myBtn{
+height: 70px;
+width: 70px;
+}
+.titleClass{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
